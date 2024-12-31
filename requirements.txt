@@ -1,3 +1,2 @@
 crewai # This package is compatible with python 3.10.11 at the time of writing this code.
-openai
 python-dotenv
